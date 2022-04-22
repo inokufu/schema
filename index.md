@@ -10,6 +10,11 @@ However, sometimes some concept are missing or have a slightly different meaning
 
 Interoperability is key to our values and we strongly believe in the power of linked data. We are thus aiming to be compatible with JSON-LD.
 
+## Learning Object
+Here are the concept used to describes the learning objects in our API:
+- [URL](http://schema.inokufu.com/learning-object/url)
+
+
 ### Support or Contact
 
 Check out our [documentation](https://developer.inokufu.com/) or [contact support](mailto:support@inokufu.com) for more details.
