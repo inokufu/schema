@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Inokufu Schema
 
-You can use the [editor on GitHub](https://github.com/inokufu/schema/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This website describes the vocabulary used by Inokufu's applications.
+When available we try to follow common standards or vocabulary used in web or education, such as:
+- xAPI
+- schema.org
+- LHEO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, sometimes some concept are missing or have a slightly different meaning in the context of our applications. As a result, we needed a way to give more details about these concepts and also links them to similar existing concepts when possible.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inokufu/schema/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Interoperability is key to our values and we strongly believe in the power of linked data. We are thus aiming to be compatible with JSON-LD.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Check out our [documentation](https://developer.inokufu.com/) or [contact support](mailto:support@inokufu.com) for more details.
