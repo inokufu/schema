@@ -1,16 +1,16 @@
 # URL
 
 ### IRI
-http://schema.inokufu.com/learning-object/url
+[http://schema.inokufu.com/learning-object/url](http://schema.inokufu.com/learning-object/url)
 
 ### DESCRIPTION
 URL means Unique Resource Location. It is the web address used to access the resource with a browser. 
 
 ### SIMILAR
-https://schema.org/url
+[https://schema.org/url](https://schema.org/url)
 
 ### BROADER
-http://schema.inokufu.com/learning-object
+[http://schema.inokufu.com/learning-object](http://schema.inokufu.com/learning-object)
 
 ### JSON-LD
 ```json
