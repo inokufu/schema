@@ -1,2 +1,2 @@
-# schema
+# Welcome
 This page describes Inokufu's vocabulary used in our applications.
