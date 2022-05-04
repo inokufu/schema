@@ -11,7 +11,7 @@ However, sometimes some concept are missing or have a slightly different meaning
 Interoperability is key to our values and we strongly believe in the power of linked data. We are thus aiming to be compatible with JSON-LD.
 
 ## Learning Object
-Here are the concept used to describes the learning objects in our API:
+Here are the concepts we use to describes a learning object:
 - [bloom](http://schema.inokufu.com/learning-object/bloom)
 - [type](http://schema.inokufu.com/learning-object/type)
 - [author](http://schema.inokufu.com/learning-object/author)
