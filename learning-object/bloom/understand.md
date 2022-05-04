@@ -20,7 +20,7 @@ None provided
   "url": "https://www.youtube.com/watch?v=s81d0PxMjlc",
   "title": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]",
   "lang": "en",
-  "type":"video"
+  "type":"video",
   "bloom": "understand"
 }
 ```
