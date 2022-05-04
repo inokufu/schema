@@ -34,7 +34,7 @@ IRI: [http://schema.inokufu.com/becomino](http://schema.inokufu.com/becomino)
 
 Here are the concepts we use to describes a learning object:
 - [board](http://schema.inokufu.com/becomino/board)
-- [domain](http://schema.inokufu.com/becomino/domain)
+
 
 ### Support or Contact
 
