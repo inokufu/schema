@@ -7,7 +7,7 @@
 This is the title of the learning object. 
 
 ### SIMILAR
-[https://schema.org/url](https://schema.org/url)
+[https://schema.org/name](https://schema.org/name)
 
 ### BROADER
 [http://schema.inokufu.com/learning-object](http://schema.inokufu.com/learning-object)
