@@ -7,7 +7,7 @@
 This is the organization which published/produced/funded the learning object. Most of the time it will be an entity such as University, school, company, etc.
 
 ### SIMILAR
-[https://schema.org/provider](https://schema.org/provider)
+[https://schema.org/publisher](https://schema.org/publisher)
 
 ### BROADER
 [http://schema.inokufu.com/learning-object](http://schema.inokufu.com/learning-object)
