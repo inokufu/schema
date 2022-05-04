@@ -22,6 +22,6 @@ URL means Unique Resource Location. It is the web address used to access the res
 ```
 
 ### NOTES
-- This URL MUST be as close as possible to the place where the learner will effectively consume the resource. 
+- This URL MUST be the location where the learner will consume the resource. 
 - This URL MUST be stripped of any tracking parameters.
 - This URL SHOULD avoid any redirect or pay-wall if possible. 
