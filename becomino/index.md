@@ -8,7 +8,6 @@
 
 Here are the specific concepts associated to becomino:
 - [board](http://schema.inokufu.com/becomino/board)
-- [domain](http://schema.inokufu.com/becomino/domain)
 
 ### SIMILAR
 None provided
