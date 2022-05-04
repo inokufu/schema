@@ -12,6 +12,15 @@ Interoperability is key to our values and we strongly believe in the power of li
 
 ## Learning Object
 Here are the concept used to describes the learning objects in our API:
+- [bloom](http://schema.inokufu.com/learning-object/bloom)
+- [type](http://schema.inokufu.com/learning-object/type)
+- [author](http://schema.inokufu.com/learning-object/author)
+- [description](http://schema.inokufu.com/learning-object/description)
+- [lang](http://schema.inokufu.com/learning-object/lang)
+- [picture](http://schema.inokufu.com/learning-object/picture)
+- [provider](http://schema.inokufu.com/learning-object/provider)
+- [publisher](http://schema.inokufu.com/learning-object/publisher)
+- [title](http://schema.inokufu.com/learning-object/title)
 - [URL](http://schema.inokufu.com/learning-object/url)
 
 
