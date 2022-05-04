@@ -11,6 +11,10 @@ However, sometimes some concept are missing or have a slightly different meaning
 Interoperability is key to our values and we strongly believe in the power of linked data. We are thus aiming to be compatible with JSON-LD.
 
 ## Learning Object
+IRI: [http://schema.inokufu.com/learning-object](http://schema.inokufu.com/learning-object)
+
+Learning objects (LO) are defined as any entity, digital or non-digital, that may be used for learning, education or training (see here). It could be any object that help learner achieve one or more learning goals.
+
 Here are the concepts we use to describes a learning object:
 - [bloom](http://schema.inokufu.com/learning-object/bloom)
 - [type](http://schema.inokufu.com/learning-object/type)
@@ -23,6 +27,14 @@ Here are the concepts we use to describes a learning object:
 - [title](http://schema.inokufu.com/learning-object/title)
 - [URL](http://schema.inokufu.com/learning-object/url)
 
+## Becomino
+IRI: [http://schema.inokufu.com/becomino](http://schema.inokufu.com/becomino)
+
+[Becomino](https://becomino.com) is a webapp that helps people discover and learn about the most in-demand jobs in France.
+
+Here are the concepts we use to describes a learning object:
+- [board](http://schema.inokufu.com/becomino/board)
+- [domain](http://schema.inokufu.com/becomino/domain)
 
 ### Support or Contact
 
